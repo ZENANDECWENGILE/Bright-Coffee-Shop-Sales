@@ -59,4 +59,5 @@ This project demonstrates practical skills in data cleaning, SQL querying, busin
 Author
 
 Cwengile Zenande Kave
+
 Aspiring Data Analyst
